@@ -6,7 +6,7 @@ function analyseMarks(marks, passMark = 50) {
     let total = 0;
     let highest = marks[0];
     let lowest = marks[0];
-    let passedCount = 0;
+    let  = 0;
     let failedCount = 0;
     let evenCount = 0;
 
